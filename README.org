@@ -1,0 +1,7 @@
+* This is From Quil Wiki
+https://github.com/quil/quil/wiki/ClojureScript
+I.e. for right now:
+[[file:~/repos/quil.wiki/ClojureScript.md][file:~/repos/quil.wiki/ClojureScript.md]]
+
+And for some live re-loading, you need "figwheel"
+http://nbeloglazov.com/2015/06/15/live-reloading-in-quil-cljs.html
