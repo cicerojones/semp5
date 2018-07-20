@@ -1,4 +1,8 @@
-* This is From Quil Wiki
+* This is From Quil Wiki 
+semp5 could possibly mean what?
+
+And my local clone(?) is called helljs-quil (aka "hell yes!")
+
 https://github.com/quil/quil/wiki/ClojureScript
 I.e. for right now:
 [[file:~/repos/quil.wiki/ClojureScript.md][file:~/repos/quil.wiki/ClojureScript.md]]
